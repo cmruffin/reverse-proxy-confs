@@ -1,4 +1,4 @@
-## Version 2025/07/18
+## Version 2026/07/03
 # make sure that your gitea container is named gitea
 # make sure that your dns has a cname set for gitea
 # edit the following parameters in /data/gitea/conf/app.ini
